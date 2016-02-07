@@ -16,6 +16,9 @@
 - :green_book: [MCSD Certification Toolkit (Exam 70-483): Programming in C#](http://amzn.com/1118612094) by Covaci, Stephens, Varallo, O'Brien; Wrox; 2012
 - :boom: [Code Complete: A Practical Handbook of Software Construction (2nd Edition)](http://amzn.com/0735619670) by Steve McConnell; Microsoft Press; 2004
 
+### Not finished:
+- :green_book: [The Mythical Man-Month: Essays on Software Engineering (2nd Edition)](http://amzn.com/0201835959) by Frederick P. Brooks Jr.; Addison-Wesley Professional; 1995 
+
 #### Waiting:
 
 - :hourglass: [MCSA Windows Server 2012 R2 Complete Study Guide: Exams 70-410, 70-411, 70-412, 70-417 (2nd Edition)](http://amzn.com/111885991X) by William Panek; Sybex; 2015 
