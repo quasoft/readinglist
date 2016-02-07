@@ -17,7 +17,7 @@
 
 #### Waiting:
 
-
+- :hourglass: [MCSA Windows Server 2012 R2 Complete Study Guide: Exams 70-410, 70-411, 70-412, 70-417 (2nd Edition)](http://amzn.com/111885991X) by William Panek; Sybex; 2015 
 - :hourglass: [Exam Ref 70-483 Programming in C# (MCSD) (1st Edition)](http://amzn.com/0735676828) by Wouter de Kort; Microsoft Press; 2013
 
 #### Some day:
