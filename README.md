@@ -8,11 +8,12 @@
 #### Finished:
 
 - :closed_book: [Learning Python (5th Edition)](http://amzn.com/1449355730) by Mark Lutz; O'Reilly; 2013
-- :closed_book: [MCSD Certification Toolkit (Exam 70-483): Programming in C#] by Covaci, Stephens, Varallo, O'Brien; Wrox; 2012
+- :closed_book: [MCSD Certification Toolkit (Exam 70-483): Programming in C#](http://amzn.com/1118612094) by Covaci, Stephens, Varallo, O'Brien; Wrox; 2012
 
 #### Waiting:
 
-- 
+
+- :waiting: [Exam Ref 70-483 Programming in C# (MCSD) (1st Edition)](http://amzn.com/0735676828) by Wouter de Kort; Microsoft Press; 2013
 
 #### Some day:
 
