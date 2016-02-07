@@ -14,6 +14,7 @@
 
 - :green_book: [Learning Python (5th Edition)](http://amzn.com/1449355730) by Mark Lutz; O'Reilly; 2013
 - :green_book: [MCSD Certification Toolkit (Exam 70-483): Programming in C#](http://amzn.com/1118612094) by Covaci, Stephens, Varallo, O'Brien; Wrox; 2012
+- :boom: [Code Complete: A Practical Handbook of Software Construction (2nd Edition)](http://amzn.com/0735619670) by Steve McConnell; Microsoft Press; 2004
 
 #### Waiting:
 
