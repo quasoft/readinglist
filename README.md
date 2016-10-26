@@ -7,13 +7,11 @@
 
 #### Currently reading:
 
-- :book: [Learn Windows PowerShell 3 in a Month of Lunches (2nd Edition)](http://amzn.com/1617291080) by Don Jones and Jeffery Hicks; Manning; 2012
-- :book: [Think DSP: Digital Signal Processing in Python (1st Edition)](http://amzn.com/1491938455) by Allen B. Downey; O'Reilly; 2016
+- :book: [Enterprise Cloud Strategy](https://www.amazon.com/Enterprise-Cloud-Strategy-Barry-Briggs-ebook/dp/B01AB0XZXM) by by Barry Briggs, Eduardo Kassner; Microsoft Press; 2016
 
 #### Waiting:
 
-- :hourglass: [MCSA Windows Server 2012 R2 Complete Study Guide: Exams 70-410, 70-411, 70-412, 70-417 (2nd Edition)](http://amzn.com/111885991X) by William Panek; Sybex; 2015 
-- :hourglass: [Exam Ref 70-483 Programming in C# (MCSD) (1st Edition)](http://amzn.com/0735676828) by Wouter de Kort; Microsoft Press; 2013
+
 
 #### Finished:
 
@@ -22,7 +20,11 @@
 - :boom: [Code Complete: A Practical Handbook of Software Construction (2nd Edition)](http://amzn.com/0735619670) by Steve McConnell; Microsoft Press; 2004
 
 #### Not finished/postponed:
+- :green_book: [Learn Windows PowerShell 3 in a Month of Lunches (2nd Edition)](http://amzn.com/1617291080) by Don Jones and Jeffery Hicks; Manning; 2012
 - :green_book: [The Mythical Man-Month: Essays on Software Engineering (2nd Edition)](http://amzn.com/0201835959) by Frederick P. Brooks Jr.; Addison-Wesley Professional; 1995 
+- :book: [Think DSP: Digital Signal Processing in Python (1st Edition)](http://amzn.com/1491938455) by Allen B. Downey; O'Reilly; 2016
+- :hourglass: [MCSA Windows Server 2012 R2 Complete Study Guide: Exams 70-410, 70-411, 70-412, 70-417 (2nd Edition)](http://amzn.com/111885991X) by William Panek; Sybex; 2015 
+- :hourglass: [Exam Ref 70-483 Programming in C# (MCSD) (1st Edition)](http://amzn.com/0735676828) by Wouter de Kort; Microsoft Press; 2013
 
 #### Some day:
 
