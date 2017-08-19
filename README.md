@@ -8,6 +8,7 @@
 #### Currently reading:
 
 - :hourglass: [MCSA Windows Server 2012 R2 Complete Study Guide: Exams 70-410, 70-411, 70-412, 70-417 (2nd Edition)](http://amzn.com/111885991X) by William Panek; Sybex; 2015 
+- :hourglass: [Security Engineering: A Guide to Building Dependable Distributed Systems](https://www.amazon.com/Security-Engineering-Building-Dependable-Distributed/dp/0470068523) by Ross J. Anderson; Wiley; 2008 
 
 #### Waiting:
 
