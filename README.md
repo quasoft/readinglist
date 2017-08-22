@@ -21,6 +21,8 @@
 - :green_book: [The Docker Book: Containerization is the new virtualization](https://www.amazon.com/Docker-Book-Containerization-new-virtualization-ebook/dp/B00LRROTI4) by James Turnbull; 2014
 - :green_book: [AWS Certified Solutions Architect Official Study Guide](https://www.amazon.com/Certified-Solutions-Architect-Official-Study/dp/1119138558) by Joe Baron, Hisham Baz, Tim Bixler, Biff Gaut, Kevin E. Kelly, Sean Senior, John Stamper; Sybex; 2016
 - :green_book: [Enterprise Cloud Strategy](https://www.amazon.com/Enterprise-Cloud-Strategy-Barry-Briggs-ebook/dp/B01AB0XZXM) by Barry Briggs, Eduardo Kassner; Microsoft Press; 2016
+- :green_book: Mini-book [OpenShift for Developers: A Guide for Impatient Beginners](https://www.amazon.com/OpenShift-Developers-Guide-Impatient-Beginners/dp/1491961430) by Grant Shipley, Graham Dumpleton; O'Reilly; 2016
+- :green_book: Mini-book [Getting Started with OpenShift: A Guide for Impatient Beginners](https://www.amazon.com/Getting-Started-OpenShift-Impatient-Beginners/dp/1491900474/ref=mt_paperback?_encoding=UTF8&me=) by Steve Pousty, Katie Miller; O'Reilly; 2014
 - :green_book: [Learning Python (5th Edition)](http://amzn.com/1449355730) by Mark Lutz; O'Reilly; 2013
 - :green_book: [MCSD Certification Toolkit (Exam 70-483): Programming in C#](http://amzn.com/1118612094) by Covaci, Stephens, Varallo, O'Brien; Wrox; 2012
 - :boom: [Code Complete: A Practical Handbook of Software Construction (2nd Edition)](http://amzn.com/0735619670) by Steve McConnell; Microsoft Press; 2004
