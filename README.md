@@ -27,7 +27,10 @@
 - :green_book: [Learn Windows PowerShell 3 in a Month of Lunches (2nd Edition)](http://amzn.com/1617291080) by Don Jones and Jeffery Hicks; Manning; 2012
 - :green_book: [The Mythical Man-Month: Essays on Software Engineering (2nd Edition)](http://amzn.com/0201835959) by Frederick P. Brooks Jr.; Addison-Wesley Professional; 1995 
 - :book: [Think DSP: Digital Signal Processing in Python (1st Edition)](http://amzn.com/1491938455) by Allen B. Downey; O'Reilly; 2016
+- :boom: [Conceptual Blockbusting: A Guide to Better Ideas](https://www.amazon.com/Conceptual-Blockbusting-Guide-Better-Ideas/dp/0738205370) by James Adams; Basic Books; 2001
 - :book: [Exam Ref 70-483 Programming in C# (MCSD) (1st Edition)](http://amzn.com/0735676828) by Wouter de Kort; Microsoft Press; 2013
+- UML
+- Bash
 
 #### Some day:
 
