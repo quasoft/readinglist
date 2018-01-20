@@ -35,8 +35,8 @@
 - UML
 - Bash
 
-#### Some day:
+#### To read:
 
--
+- :book: [Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow (2nd Edition)](http://a.co/781OsEX) by Sebastian Raschka, Vahid Mirjalili; Packt; 2017
 
 #### To consider:
