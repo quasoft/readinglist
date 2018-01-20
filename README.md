@@ -4,18 +4,17 @@
 - :green_book: - Nice read
 - :star: - Favourite
 - :boom: - Must read
-- :disappointed: - There is something to learn, but generally of low quality
+- :disappointed: - There is something to learn
 
 #### Currently reading:
 
-- :disappointed: [Learning Apache Flink](https://www.amazon.co.uk/Learning-Apache-Flink-Tanmay-Deshpande-ebook/dp/B01MXQ19GM) by Tanmay Deshpande; Packt; 2017
 - :green_book: [Building Microservices with Go](https://www.amazon.co.uk/Building-Microservices-Go-Nic-Jackson-ebook/dp/B01M2DA8A7) by Nic Jackson; Packt; 2017
-- :book: ["The Go Programming Language"](http://a.co/7gfAqGX) by Alan A. A. Donovan, Brian W. Kernighan; Addison-Wesley Professional; 2015
 - :book: [MCSA Windows Server 2012 R2 Complete Study Guide: Exams 70-410, 70-411, 70-412, 70-417 (2nd Edition)](http://amzn.com/111885991X) by William Panek; Sybex; 2015 
 - :book: [Security Engineering: A Guide to Building Dependable Distributed Systems](https://www.amazon.com/Security-Engineering-Building-Dependable-Distributed/dp/0470068523) by Ross J. Anderson; Wiley; 2008 
 
 #### Finished:
 
+- :star: ["The Go Programming Language"](http://a.co/7gfAqGX) by Alan A. A. Donovan, Brian W. Kernighan; Addison-Wesley Professional; 2015
 - :star: Report/mini-book ["Reactive Microsystems - The Evolution Of Microservices At Scale"](https://www.lightbend.com/blog/reactive-microsystems-the-evolution-of-microservices-at-scale-free-oreilly-report-by-jonas-boner) by Jonas Bonér; O"Reilly; 2017
 - :green_book: [The Docker Book: Containerization is the new virtualization](https://www.amazon.com/Docker-Book-Containerization-new-virtualization-ebook/dp/B00LRROTI4) by James Turnbull; 2014
 - :green_book: [AWS Certified Solutions Architect Official Study Guide](https://www.amazon.com/Certified-Solutions-Architect-Official-Study/dp/1119138558) by Joe Baron, Hisham Baz, Tim Bixler, Biff Gaut, Kevin E. Kelly, Sean Senior, John Stamper; Sybex; 2016
@@ -27,6 +26,7 @@
 - :boom: [Code Complete: A Practical Handbook of Software Construction (2nd Edition)](http://amzn.com/0735619670) by Steve McConnell; Microsoft Press; 2004
 
 #### Not finished/postponed:
+- :disappointed: [Learning Apache Flink](https://www.amazon.co.uk/Learning-Apache-Flink-Tanmay-Deshpande-ebook/dp/B01MXQ19GM) by Tanmay Deshpande; Packt; 2017
 - :green_book: [Learn Windows PowerShell 3 in a Month of Lunches (2nd Edition)](http://amzn.com/1617291080) by Don Jones and Jeffery Hicks; Manning; 2012
 - :green_book: [The Mythical Man-Month: Essays on Software Engineering (2nd Edition)](http://amzn.com/0201835959) by Frederick P. Brooks Jr.; Addison-Wesley Professional; 1995 
 - :book: [Think DSP: Digital Signal Processing in Python (1st Edition)](http://amzn.com/1491938455) by Allen B. Downey; O'Reilly; 2016
