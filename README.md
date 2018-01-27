@@ -27,6 +27,10 @@
 - :green_book: [MCSD Certification Toolkit (Exam 70-483): Programming in C#](http://amzn.com/1118612094) by Covaci, Stephens, Varallo, O'Brien; Wrox; 2012
 - :boom: [Code Complete: A Practical Handbook of Software Construction (2nd Edition)](http://amzn.com/0735619670) by Steve McConnell; Microsoft Press; 2004
 
+#### To read:
+
+- :book: [Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow (2nd Edition)](http://a.co/781OsEX) by Sebastian Raschka, Vahid Mirjalili; Packt; 2017
+
 #### Not finished/postponed:
 - :disappointed: [Learning Apache Flink](https://www.amazon.co.uk/Learning-Apache-Flink-Tanmay-Deshpande-ebook/dp/B01MXQ19GM) by Tanmay Deshpande; Packt; 2017
 - :green_book: [Learn Windows PowerShell 3 in a Month of Lunches (2nd Edition)](http://amzn.com/1617291080) by Don Jones and Jeffery Hicks; Manning; 2012
@@ -36,9 +40,5 @@
 - :book: [Exam Ref 70-483 Programming in C# (MCSD) (1st Edition)](http://amzn.com/0735676828) by Wouter de Kort; Microsoft Press; 2013
 - UML
 - Bash
-
-#### To read:
-
-- :book: [Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow (2nd Edition)](http://a.co/781OsEX) by Sebastian Raschka, Vahid Mirjalili; Packt; 2017
 
 #### To consider:
