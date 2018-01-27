@@ -1,9 +1,9 @@
 ## Personal Book Reading List
 
 #### Legend:
-- :green_book: - Nice read
-- :star: - Favourite
 - :boom: - Must read
+- :star: - Favourite
+- :green_book: - Nice read
 - :disappointed: - There is something to learn
 
 #### Currently reading:
