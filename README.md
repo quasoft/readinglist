@@ -8,13 +8,13 @@
 
 #### Currently reading:
 
-- :green_book: [Building Microservices with Go](https://www.amazon.co.uk/Building-Microservices-Go-Nic-Jackson-ebook/dp/B01M2DA8A7) by Nic Jackson; Packt; 2017
 - :star: [Hands-On Machine Learning with Scikit-Learn and TensorFlow](http://a.co/atlXu6F) by Aurélien Géron; O'Reilly; 2017
 - :book: [MCSA Windows Server 2012 R2 Complete Study Guide: Exams 70-410, 70-411, 70-412, 70-417 (2nd Edition)](http://amzn.com/111885991X) by William Panek; Sybex; 2015 
 - :book: [Security Engineering: A Guide to Building Dependable Distributed Systems](https://www.amazon.com/Security-Engineering-Building-Dependable-Distributed/dp/0470068523) by Ross J. Anderson; Wiley; 2008 
 
 #### Finished:
 
+- :green_book: [Building Microservices with Go](https://www.amazon.co.uk/Building-Microservices-Go-Nic-Jackson-ebook/dp/B01M2DA8A7) by Nic Jackson; Packt; 2017
 - :green_book: [Java: A Beginner's Guide, Sixth Edition](http://amzn.eu/1bRPqSa) by Herbert Schildt, McGraw-Hill Education; 2014
 - :star: [The Go Programming Language](http://a.co/7gfAqGX) by Alan A. A. Donovan, Brian W. Kernighan; Addison-Wesley Professional; 2015
 - :star: Report/mini-book [Reactive Microsystems - The Evolution Of Microservices At Scale](https://www.lightbend.com/blog/reactive-microsystems-the-evolution-of-microservices-at-scale-free-oreilly-report-by-jonas-boner) by Jonas Bonér; O"Reilly; 2017
