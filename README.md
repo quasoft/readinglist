@@ -8,7 +8,8 @@
 
 #### Currently reading:
 
-- :green_book: [Go Programming Blueprints - Solving Development Challenges with Golang, Second Edition](http://a.co/aDhGMG1) by Mat Ryer; Packt Publishing; 2016
+- :green_book: [Fluent Python: Clear, Concise, and Effective Programming](http://a.co/fhDlzZm) by Luciano Ramalho; O'Reilly; 2015
+- :book: [Go Programming Blueprints - Solving Development Challenges with Golang, Second Edition](http://a.co/aDhGMG1) by Mat Ryer; Packt Publishing; 2016
 - :star: [Hands-On Machine Learning with Scikit-Learn and TensorFlow](http://a.co/atlXu6F) by Aurélien Géron; O'Reilly; 2017
 - :book: [MCSA Windows Server 2012 R2 Complete Study Guide: Exams 70-410, 70-411, 70-412, 70-417 (2nd Edition)](http://amzn.com/111885991X) by William Panek; Sybex; 2015 
 - :book: [Security Engineering: A Guide to Building Dependable Distributed Systems](https://www.amazon.com/Security-Engineering-Building-Dependable-Distributed/dp/0470068523) by Ross J. Anderson; Wiley; 2008 
