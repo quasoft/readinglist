@@ -8,6 +8,7 @@
 
 #### Currently reading:
 
+- :green_book: [Secure Coding: Principles and Practices](http://amzn.eu/2ajUsS8) by  Mark G. Graff, Kenneth R. van Wyk; O'Reilly; 2003 (*Still relevant*)
 - :green_book: [Fluent Python: Clear, Concise, and Effective Programming](http://a.co/fhDlzZm) by Luciano Ramalho; O'Reilly; 2015
 - :book: [Go Programming Blueprints - Solving Development Challenges with Golang, Second Edition](http://a.co/aDhGMG1) by Mat Ryer; Packt Publishing; 2016
 - :star: [Hands-On Machine Learning with Scikit-Learn and TensorFlow](http://a.co/atlXu6F) by Aurélien Géron; O'Reilly; 2017
