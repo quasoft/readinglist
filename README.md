@@ -30,6 +30,8 @@
 
 - :green_book: [Learn Windows PowerShell 3 in a Month of Lunches (2nd Edition)](http://amzn.com/1617291080) by Don Jones and Jeffery Hicks; Manning; 2012
 - :green_book: [Secure Coding: Principles and Practices](http://amzn.eu/2ajUsS8) by  Mark G. Graff, Kenneth R. van Wyk; O'Reilly; 2003 (*Still relevant*)
+- :book: [Bash Pocket Reference: Help for Power Users and Sys Admins (2nd Edition)](https://www.amazon.com/Bash-Pocket-Reference-Power-Admins/dp/1491941596) by Arnold Robbins; O'Reilly; 2016
+- :book: [UML 2.0 Pocket Reference: UML Syntax and Usage](https://www.amazon.com/UML-2-0-Pocket-Reference-OReilly/dp/0596102089) by Dan Pilone; O'Reilly; 2006
 
 #### To read:
 
