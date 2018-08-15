@@ -8,11 +8,7 @@
 
 #### Currently reading:
 
-- :green_book: [Secure Coding: Principles and Practices](http://amzn.eu/2ajUsS8) by  Mark G. Graff, Kenneth R. van Wyk; O'Reilly; 2003 (*Still relevant*)
 - :green_book: [Fluent Python: Clear, Concise, and Effective Programming](http://a.co/fhDlzZm) by Luciano Ramalho; O'Reilly; 2015
-- :book: [Go Programming Blueprints - Solving Development Challenges with Golang, Second Edition](http://a.co/aDhGMG1) by Mat Ryer; Packt Publishing; 2016
-- :star: [Hands-On Machine Learning with Scikit-Learn and TensorFlow](http://a.co/atlXu6F) by Aurélien Géron; O'Reilly; 2017
-- :book: [MCSA Windows Server 2012 R2 Complete Study Guide: Exams 70-410, 70-411, 70-412, 70-417 (2nd Edition)](http://amzn.com/111885991X) by William Panek; Sybex; 2015 
 - :book: [Security Engineering: A Guide to Building Dependable Distributed Systems](https://www.amazon.com/Security-Engineering-Building-Dependable-Distributed/dp/0470068523) by Ross J. Anderson; Wiley; 2008 
 
 #### Finished:
@@ -30,13 +26,21 @@
 - :green_book: [MCSD Certification Toolkit (Exam 70-483): Programming in C#](http://amzn.com/1118612094) by Covaci, Stephens, Varallo, O'Brien; Wrox; 2012
 - :boom: [Code Complete: A Practical Handbook of Software Construction (2nd Edition)](http://amzn.com/0735619670) by Steve McConnell; Microsoft Press; 2004
 
+#### Reference:
+
+- :green_book: [Learn Windows PowerShell 3 in a Month of Lunches (2nd Edition)](http://amzn.com/1617291080) by Don Jones and Jeffery Hicks; Manning; 2012
+- :green_book: [Secure Coding: Principles and Practices](http://amzn.eu/2ajUsS8) by  Mark G. Graff, Kenneth R. van Wyk; O'Reilly; 2003 (*Still relevant*)
+
 #### To read:
 
 - :book: [Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow (2nd Edition)](http://a.co/781OsEX) by Sebastian Raschka, Vahid Mirjalili; Packt; 2017
 
 #### Not finished/postponed:
+
+- :book: [MCSA Windows Server 2012 R2 Complete Study Guide: Exams 70-410, 70-411, 70-412, 70-417 (2nd Edition)](http://amzn.com/111885991X) by William Panek; Sybex; 2015 
+- :book: [Go Programming Blueprints - Solving Development Challenges with Golang, Second Edition](http://a.co/aDhGMG1) by Mat Ryer; Packt Publishing; 2016
+- :star: [Hands-On Machine Learning with Scikit-Learn and TensorFlow](http://a.co/atlXu6F) by Aurélien Géron; O'Reilly; 2017
 - :disappointed: [Learning Apache Flink](https://www.amazon.co.uk/Learning-Apache-Flink-Tanmay-Deshpande-ebook/dp/B01MXQ19GM) by Tanmay Deshpande; Packt; 2017
-- :green_book: [Learn Windows PowerShell 3 in a Month of Lunches (2nd Edition)](http://amzn.com/1617291080) by Don Jones and Jeffery Hicks; Manning; 2012
 - :green_book: [The Mythical Man-Month: Essays on Software Engineering (2nd Edition)](http://amzn.com/0201835959) by Frederick P. Brooks Jr.; Addison-Wesley Professional; 1995 
 - :book: [Think DSP: Digital Signal Processing in Python (1st Edition)](http://amzn.com/1491938455) by Allen B. Downey; O'Reilly; 2016
 - :boom: [Conceptual Blockbusting: A Guide to Better Ideas](https://www.amazon.com/Conceptual-Blockbusting-Guide-Better-Ideas/dp/0738205370) by James Adams; Basic Books; 2001
