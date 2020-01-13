@@ -17,6 +17,7 @@
 - :green_book: [Building Microservices with Go](https://www.amazon.co.uk/Building-Microservices-Go-Nic-Jackson-ebook/dp/B01M2DA8A7) by Nic Jackson; Packt; 2017
 - :green_book: [Java: A Beginner's Guide, Sixth Edition](http://amzn.eu/1bRPqSa) by Herbert Schildt, McGraw-Hill Education; 2014
 - :star: [The Go Programming Language](http://a.co/7gfAqGX) by Alan A. A. Donovan, Brian W. Kernighan; Addison-Wesley Professional; 2015
+- :star: [Linux+ Study Guide, 3rd Edition](https://www.amazon.com/Linux-Study-Guide-3rd-XKO-002/dp/078214389X) by Roderick W. Smith; Sybex; 2005
 - :star: Report/mini-book [Reactive Microsystems - The Evolution Of Microservices At Scale](https://www.lightbend.com/blog/reactive-microsystems-the-evolution-of-microservices-at-scale-free-oreilly-report-by-jonas-boner) by Jonas Bonér; O"Reilly; 2017
 - :green_book: [The Docker Book: Containerization is the new virtualization](https://www.amazon.com/Docker-Book-Containerization-new-virtualization-ebook/dp/B00LRROTI4) by James Turnbull; 2014
 - :green_book: [AWS Certified Solutions Architect Official Study Guide](https://www.amazon.com/Certified-Solutions-Architect-Official-Study/dp/1119138558) by Joe Baron, Hisham Baz, Tim Bixler, Biff Gaut, Kevin E. Kelly, Sean Senior, John Stamper; Sybex; 2016
